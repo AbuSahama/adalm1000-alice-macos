@@ -206,9 +206,3 @@ Double-click `Launch ALICE.command` in Finder whenever you want to use ALICE.
 - [ALICE Desktop user's guide](https://wiki.analog.com/university/tools/m1k/alice/desk-top-users-guide)
 
 This is a community installation guide, not an official Analog Devices installer. Upstream software retains its own licenses; this folder contains instructions and helper scripts rather than redistributed ALICE binaries.
-
-## Put this guide on GitHub
-
-Create a repository or open an existing one. Choose **Add file → Upload files**, and upload this folder's `README.md`, `patch_alice.py`, `build_pysmu.py`, and `.gitignore` into an `alice-macos-guide` directory. Commit the files. GitHub displays `README.md` automatically when someone opens the directory.
-
-Do not upload your virtual environment, downloaded dependency sources, configuration files, or compiled installation folder.
